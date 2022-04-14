@@ -1,5 +1,7 @@
 # Data-Visualization-using-R-
 
+Data visualization on Mtcars
+
 Dataset: https://drive.google.com/drive/folders/1t1TBvhgcH3SoCkUyH-AyDVLVvlEnGEx3?usp=sharing
 
 Data visualization is a technique used for the graphical representation of data. By using elements like scatter plots, charts, graphs, histograms, maps, etc., we make our data more understandable. Data visualization makes it easy to recognize patterns, trends, and exceptions in our data. It enables us to convey information and results in a quick and visual way.
