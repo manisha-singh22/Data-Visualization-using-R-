@@ -37,3 +37,4 @@ Collecting and cleaning the Data
 Establish relation between the parameters and its dependency on other factors.
 
 To implement the project, run the uploaded file in jupyter notebook and using the commands above, analysis can be done against respective parameters.
+Implemented on kaggle: https://www.kaggle.com/code/manishaasingh7/mtcars-data-visualization-using-r
