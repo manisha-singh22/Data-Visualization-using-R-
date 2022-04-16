@@ -1,6 +1,6 @@
 # Data-Visualization-using-R-
 
-Data visualization on Mtcars
+Data visualization: Mtcars
 
 Dataset: https://drive.google.com/drive/folders/1t1TBvhgcH3SoCkUyH-AyDVLVvlEnGEx3?usp=sharing
 
@@ -39,4 +39,6 @@ Collecting and cleaning the Data
 Establish relation between the parameters and its dependency on other factors.
 
 To implement the project, run the uploaded file in jupyter notebook and using the commands above, analysis can be done against respective parameters.
-Implemented on kaggle: https://www.kaggle.com/code/manishaasingh7/mtcars-data-visualization-using-r
+
+# Credits
+Made by Manisha Singh, Shreya Saini and Sakshi Chaudhary as part of evaluation for Computing Tools W/S. 
